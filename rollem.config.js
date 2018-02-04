@@ -15,6 +15,9 @@ const toConfig = data => {
         format: 'iife',
         moduleName,
         external: ['react'],
+        globals: {
+            react: 'React',  
+        },
         plugins: [
             babel({ 
                 plugins: ['external-helpers'],
