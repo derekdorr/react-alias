@@ -1,5 +1,5 @@
 /**
- * Alias for the <input type="email"> tag.  Should be used when adding an email 
+ * Alias for the <input type="email"> tag.  Should be used when adding an email
  * field to a form.
  *
  * @module EmailInput
