@@ -2,7 +2,7 @@ install:
   - npm install
 
 script:
-  - npm ls
+  - node --version
   - npm run lint
   - npm run test
   - npm run build
