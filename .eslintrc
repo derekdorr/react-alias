@@ -1,0 +1,13 @@
+{
+    "extends": "airbnb",
+    "parser": "babel-eslint",
+    "rules": {
+        "arrow-parens": [2, "as-needed", { "requireForBlockBody": false }],
+        "indent": ["error", 4],
+        "linebreak-style": 0,
+        "no-underscore-dangle": 0,
+        "react/jsx-filename-extension": 0,
+        "react/jsx-indent": 0,
+        "react/prop-types": 0,
+    }
+}
