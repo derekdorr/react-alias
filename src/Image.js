@@ -9,7 +9,8 @@
  */
 
 import alias from './alias';
+import STR_IMAGE from './_constants/STR_IMAGE';
 
-const Image = alias('img', 'Image');
+const Image = alias('img', STR_IMAGE);
 
 export default Image;
