@@ -20,7 +20,7 @@
     "docs": "gulp docs",
     "test": "cross-env BABEL_ENV=lib nyc tape tests/*-test.js",
     "lint": "eslint --fix src/ tests/",
-    "build-browser": "cross-env DEBUG=rollem rollem",
+    "build-browser": "rollem",
     "build-lib": "cross-env BABEL_ENV=lib babel src --out-dir lib",
     "build-es": "cross-env BABEL_ENV=es babel src --out-dir es",
     "build": "npm run build-lib && npm run build-es && npm run build-browser",
