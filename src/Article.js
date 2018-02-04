@@ -8,12 +8,10 @@
  * @param {Object} props
  */
 
-import _toLowerCase from './_internal/_toLowerCase';
 import alias from './alias';
+import STR_ARTICLE from './_constants/STR_ARTICLE';
+import STR_ARTICLE_LC from './_constants/STR_ARTICLE_LC';
 
-const STR_NAME = 'Article';
-const STR_TAG = _toLowerCase(STR_NAME);
-
-const Article = alias(STR_TAG, STR_NAME);
+const Article = alias(STR_ARTICLE_LC, STR_ARTICLE);
 
 export default Article;
