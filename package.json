@@ -1,6 +1,6 @@
 {
   "name": "react-alias",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic HTML components aliased in React in an effort to cutdown on strings",
   "repository": "https://github.com/derekdorr/react-basics",
   "main": "lib/index.js",
