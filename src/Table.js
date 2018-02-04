@@ -1,3 +1,13 @@
+/**
+ * Alias for the <table> tag. The Table element defines a table layout. 
+ * 
+ * @module Table
+ * @func
+ * @since 1.0.0
+ * @param {Object} props
+ */
+
+
 import _toLowerCase from './_internal/_toLowerCase';
 import alias from './alias';
 

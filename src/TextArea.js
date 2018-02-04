@@ -1,3 +1,14 @@
+/**
+ * Alias for the <textarea> tag. The TextArea element defines a freetext field for
+ * user input in a Form.
+ * 
+ * @module TextArea
+ * @func
+ * @since 1.0.0
+ * @param {Object} props
+ */
+
+
 import _toLowerCase from './_internal/_toLowerCase';
 import alias from './alias';
 

@@ -1,3 +1,13 @@
+/**
+ * Alias for the <select> tag. The Select element defines a dropdown input for a form. 
+ * 
+ * @module Select
+ * @func
+ * @since 1.0.0
+ * @param {Object} props
+ */
+
+
 import _toLowerCase from './_internal/_toLowerCase';
 import alias from './alias';
 

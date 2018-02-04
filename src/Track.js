@@ -1,3 +1,13 @@
+/**
+ * Alias for the <track> tag. The Track element defines tracks for media elements.
+ * 
+ * @module Track
+ * @func
+ * @since 1.0.0
+ * @param {Object} props
+ */
+
+
 import _toLowerCase from './_internal/_toLowerCase';
 import alias from './alias';
 
