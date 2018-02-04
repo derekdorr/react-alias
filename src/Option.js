@@ -1,5 +1,5 @@
 /**
- * Alias for the <option> tag. The Option element defines a user-selectable value
+ * Alias for the option tag. The Option element defines a user-selectable value
  * for a Select.
  *
  * @module Option

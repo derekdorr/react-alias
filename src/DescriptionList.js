@@ -1,5 +1,5 @@
 /**
- * Alias for the <dl> tag.  The DescriptionList contains a number of DescriptionTerms
+ * Alias for the dl tag.  The DescriptionList contains a number of DescriptionTerms
  * and their definitions (DescriptionDefinition).
  *
  * @module DescriptionList

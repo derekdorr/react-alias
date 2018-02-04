@@ -1,5 +1,5 @@
 /**
- * Alias for the <input type="url"> tag.  Should be used when adding a url field
+ * Alias for the input type="url" tag.  Should be used when adding a url field
  * to a form.
  *
  * @module UrlInput

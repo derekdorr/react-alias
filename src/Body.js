@@ -1,5 +1,5 @@
 /**
- * Alias for the <body> tag.  The Body component defines the wraps the visible
+ * Alias for the body tag.  The Body component defines the wraps the visible
  * document content.
  *
  * @module Body

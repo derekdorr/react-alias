@@ -41,11 +41,11 @@
             "plugins": [
                 ["transform-imports", {
                     "permanent": {
-                        "transform": "permanent/es/${member}",
+                        "transform": "permanent/lib/${member}",
                         "preventFullImport": true
                     },
                     "skald": {
-                        "transform": "skald/es/${member}",
+                        "transform": "skald/lib/${member}",
                         "preventFullImport": true
                     }
                 }]

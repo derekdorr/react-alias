@@ -1,5 +1,5 @@
 /**
- * Alias for the <dd> tag.  Defines a term within a DescriptionList.
+ * Alias for the dd tag.  Defines a term within a DescriptionList.
  *
  * @module DescriptionDefinition
  * @func

@@ -1,5 +1,5 @@
 /**
- * Alias for the <meta> tag. The Meta element defines metadata about a document.
+ * Alias for the meta tag. The Meta element defines metadata about a document.
  *
  * @module Meta
  * @func

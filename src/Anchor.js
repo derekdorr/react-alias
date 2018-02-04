@@ -1,5 +1,5 @@
 /**
- * Alias for the <a> tag.  The Anchor tag defines a hyperlink which is used to
+ * Alias for the a tag.  The Anchor tag defines a hyperlink which is used to
  * link one web page to another.  If using a click event to perform an action,
  * instead of using Anchor try using Button.
  *

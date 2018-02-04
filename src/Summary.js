@@ -1,5 +1,5 @@
 /**
- * Alias for the <summary> tag. The Summary element defines a visible heading for
+ * Alias for the summary tag. The Summary element defines a visible heading for
  * a Details element.
  *
  * @module Summary

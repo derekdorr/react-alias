@@ -1,5 +1,5 @@
 /**
- * Alias for the <p> tag. The Paragraph element defines a paragraph of text.
+ * Alias for the p tag. The Paragraph element defines a paragraph of text.
  *
  * @module Paragraph
  * @func

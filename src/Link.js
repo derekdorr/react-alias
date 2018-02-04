@@ -1,5 +1,5 @@
 /**
- * Alias for the <link> tag. The Link element defines a relationship between a
+ * Alias for the link tag. The Link element defines a relationship between a
  * docuument and an external resource.
  *
  * @module Link

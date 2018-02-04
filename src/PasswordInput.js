@@ -1,5 +1,5 @@
 /**
- * Alias for the <input type="password"> tag.  Should be used when adding a password
+ * Alias for the input type="password" tag.  Should be used when adding a password
  * field to a form.
  *
  * @module CheckBox

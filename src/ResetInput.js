@@ -1,5 +1,5 @@
 /**
- * Alias for the <input type="reset"> tag.  Should be used when adding a reset field
+ * Alias for the input type="reset" tag.  Should be used when adding a reset field
  * to a form.
  *
  * @module ResetInput

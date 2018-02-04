@@ -1,5 +1,5 @@
 /**
- * Alias for the <menuitem> tag.  The ContextMenuItem defines an element of a
+ * Alias for the menuitem tag.  The ContextMenuItem defines an element of a
  * ContextMenu.
  *
  * @module ContextMenuItem

@@ -1,5 +1,5 @@
 /**
- * Alias for the <td> tag. The TableCell element defines a single cell of a TableRow.
+ * Alias for the td tag. The TableCell element defines a single cell of a TableRow.
  *
  * @module TableCell
  * @func

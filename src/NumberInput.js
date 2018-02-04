@@ -1,5 +1,5 @@
 /**
- * Alias for the <input type="number"> tag.  Should be used when adding a number field
+ * Alias for the input type="number" tag.  Should be used when adding a number field
  * to a form.
  *
  * @module NumberInput

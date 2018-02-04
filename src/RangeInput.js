@@ -1,5 +1,5 @@
 /**
- * Alias for the <input type="range"> tag.  Should be used when adding a range field
+ * Alias for the input type="range" tag.  Should be used when adding a range field
  * to a form.
  *
  * @module RadioInput

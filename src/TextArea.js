@@ -1,5 +1,5 @@
 /**
- * Alias for the <textarea> tag. The TextArea element defines a freetext field for
+ * Alias for the textarea tag. The TextArea element defines a freetext field for
  * user input in a Form.
  *
  * @module TextArea

@@ -1,5 +1,5 @@
 /**
- * Alias for the <blockquote> tag.  The BlockQuote tag defines content
+ * Alias for the blockquote tag.  The BlockQuote tag defines content
  * which is quoted from another source.
  *
  * @module BlockQuote

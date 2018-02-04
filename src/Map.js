@@ -1,5 +1,5 @@
 /**
- * Alias for the <map> tag. The Map element defines a map of Areas that allows
+ * Alias for the map tag. The Map element defines a map of Areas that allows
  * regions of an image to be clickable.
  *
  * @module Map

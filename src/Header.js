@@ -1,5 +1,5 @@
 /**
- * Alias for the <header> tag. The Header element defines a Header for a document
+ * Alias for the header tag. The Header element defines a Header for a document
  * or section.  It should contain content relevant to the parent.
  *
  * @module Form

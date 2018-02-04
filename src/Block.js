@@ -1,5 +1,5 @@
 /**
- * Alias for the <div> tag.  The Block component defines generic, non-semantic
+ * Alias for the div tag.  The Block component defines generic, non-semantic
  * block-level content.
  *
  * @module Block

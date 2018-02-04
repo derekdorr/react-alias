@@ -1,5 +1,5 @@
 /**
- * Alias for the <strong> tag. The Strong element defines text which should stand
+ * Alias for the strong tag. The Strong element defines text which should stand
  * out from surrounding text.
  *
  * @module Strong

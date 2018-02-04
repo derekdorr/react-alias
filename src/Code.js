@@ -1,5 +1,5 @@
 /**
- * Alias for the <code> tag.  The Code tag defines a piece of computer code.
+ * Alias for the code tag.  The Code tag defines a piece of computer code.
  *
  * @module Code
  * @func

@@ -1,5 +1,5 @@
 /**
- * Alias for the <ol> tag. The OrderedList element provides a container for an
+ * Alias for the ol tag. The OrderedList element provides a container for an
  * ordered list.
  *
  * @module OrderedList

@@ -1,5 +1,5 @@
 /**
- * Alias for the <ul> tag. The List element provides a container for an unordered
+ * Alias for the ul tag. The List element provides a container for an unordered
  * list.
  *
  * @module List

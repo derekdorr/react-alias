@@ -1,5 +1,5 @@
 /**
- * Alias for the <em> tag. The Emphasize tag should be used to wrap text which should
+ * Alias for the em tag. The Emphasize tag should be used to wrap text which should
  * receive emphasis within its current context.
  *
  * @module Emphasize

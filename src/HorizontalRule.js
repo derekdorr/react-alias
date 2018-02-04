@@ -1,5 +1,5 @@
 /**
- * Alias for the <hr> tag. The HorizontalRule element can be used to denote a
+ * Alias for the hr tag. The HorizontalRule element can be used to denote a
  * thematic break in content.
  *
  * @module HorizontalRule

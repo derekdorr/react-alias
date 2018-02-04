@@ -1,5 +1,5 @@
 /**
- * Alias for the <li> tag. The ListItem element denotes a child of an ordered or
+ * Alias for the li tag. The ListItem element denotes a child of an ordered or
  * unordered list.
  *
  * @module ListItem

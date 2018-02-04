@@ -1,5 +1,5 @@
 /**
- * Alias for the <script> tag. The Script element defines document scripting.
+ * Alias for the script tag. The Script element defines document scripting.
  *
  * @module Script
  * @func
