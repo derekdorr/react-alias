@@ -1,5 +1,5 @@
 /**
- * Alias for the <datalist> tag.  The DataList can contain a number of pre-defined
+ * Alias for the datalist tag.  The DataList can contain a number of pre-defined
  * values for an Input element.
  *
  * @module DataList

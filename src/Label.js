@@ -1,5 +1,5 @@
 /**
- * Alias for the <label> tag. The Label element defines information relevant to
+ * Alias for the label tag. The Label element defines information relevant to
  * an Input, Select, or TextArea.
  *
  * @module Label

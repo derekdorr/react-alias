@@ -1,5 +1,5 @@
 /**
- * Alias for the <input type="submit"> tag.  Should be used when adding a submit field
+ * Alias for the input type="submit" tag.  Should be used when adding a submit field
  * to a form.
  *
  * @module SubmitInput

@@ -1,5 +1,5 @@
 /**
- * Alias for the <h1> to <h6> tags. Requires a property of level which defines the
+ * Alias for the h1 to h6 tags. Requires a property of level which defines the
  * level of the heading. The Heading element should be used to appropriately
  * denote the structure of content as nested fragments.
  *

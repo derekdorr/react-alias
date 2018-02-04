@@ -1,5 +1,5 @@
 /**
- * Alias for the <tfoot> tag.  The TableFooter element defines a footer for a Table.
+ * Alias for the tfoot tag.  The TableFooter element defines a footer for a Table.
  *
  * @module TableFooter
  * @func

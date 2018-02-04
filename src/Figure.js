@@ -1,5 +1,5 @@
 /**
- * Alias for the <figure> tag. The Figure element should contain self-contained
+ * Alias for the figure tag. The Figure element should contain self-contained
  * content which is relevant to the current document, but which could be removed
  * without impacting the flow of the current document.
  *

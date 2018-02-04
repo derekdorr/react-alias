@@ -1,5 +1,5 @@
 /**
- * Alias for the <track> tag. The Track element defines tracks for media elements.
+ * Alias for the track tag. The Track element defines tracks for media elements.
  *
  * @module Track
  * @func

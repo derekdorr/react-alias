@@ -1,5 +1,5 @@
 /**
- * Alias for the <input type="button"> tag.  Should be used when adding a button
+ * Alias for the input type="button" tag.  Should be used when adding a button
  * to a form.  Though, Button will perform the same action when included in a
  * Form by default.
  *

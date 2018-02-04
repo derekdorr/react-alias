@@ -1,5 +1,5 @@
 /**
- * Alias for the <abbr> tag.  The Abbreviation element defines an abbreviation
+ * Alias for the abbr tag.  The Abbreviation element defines an abbreviation
  * or acronym.
  *
  * @module Abbreviation

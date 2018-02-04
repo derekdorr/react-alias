@@ -1,5 +1,5 @@
 /**
- * Alias for the <pre> tag. The Preformat element allows the display of monospaced font
+ * Alias for the pre tag. The Preformat element allows the display of monospaced font
  * and preserves both spaces and line breaks.
  *
  * @module Preformat

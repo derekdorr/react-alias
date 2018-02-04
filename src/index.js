@@ -15,9 +15,11 @@ import Canvas from './Canvas';
 import CheckBox from './CheckBox';
 import Cite from './Cite';
 import Code from './Code';
+import ColorInput from './ColorInput';
 import ContextMenu from './ContextMenu';
 import ContextMenuItem from './ContextMenuItem';
 import DataList from './DataList';
+import DateInput from './DateInput';
 import DescriptionDefinition from './DescriptionDefinition';
 import DescriptionList from './DescriptionList';
 import DescriptionTerm from './DescriptionTerm';
@@ -34,6 +36,7 @@ import Form from './Form';
 import Head from './Head';
 import Header from './Header';
 import Heading from './Heading';
+import HiddenInput from './HiddenInput';
 import HorizontalRule from './HorizontalRule';
 import Html from './Html';
 import IFrame from './IFrame';
@@ -109,9 +112,11 @@ export {
     CheckBox,
     Cite,
     Code,
+    ColorInput,
     ContextMenu,
     ContextMenuItem,
     DataList,
+    DateInput,
     DescriptionDefinition,
     DescriptionList,
     DescriptionTerm,
@@ -128,6 +133,7 @@ export {
     Head,
     Header,
     Heading,
+    HiddenInput,
     HorizontalRule,
     Html,
     IFrame,

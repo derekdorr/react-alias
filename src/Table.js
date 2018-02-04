@@ -1,5 +1,5 @@
 /**
- * Alias for the <table> tag. The Table element defines a table layout.
+ * Alias for the table tag. The Table element defines a table layout.
  *
  * @module Table
  * @func

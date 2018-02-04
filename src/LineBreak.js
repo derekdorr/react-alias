@@ -1,5 +1,5 @@
 /**
- * Alias for the <br> tag. The LineBreak element breaks inline content to the
+ * Alias for the br tag. The LineBreak element breaks inline content to the
  * next line.
  *
  * @module LineBreak

@@ -1,5 +1,5 @@
 /**
- * Alias for the <embed> tag. The Embed tag defines a container for an external
+ * Alias for the embed tag. The Embed tag defines a container for an external
  * application or interactive content contained within a document.
  *
  * @module Embed

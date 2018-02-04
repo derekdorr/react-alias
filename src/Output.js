@@ -1,5 +1,5 @@
 /**
- * Alias for the <output> tag. The Output element defines the result of a calculation.
+ * Alias for the output tag. The Output element defines the result of a calculation.
  *
  * @module Output
  * @func

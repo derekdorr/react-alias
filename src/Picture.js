@@ -1,5 +1,5 @@
 /**
- * Alias for the <picture> tag. The Picture element allows for additionally flexibility
+ * Alias for the picture tag. The Picture element allows for additionally flexibility
  * in defining image resources above the Image element.
  *
  * @module Picture

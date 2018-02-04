@@ -1,5 +1,5 @@
 /**
- * Alias for the <source> tag. The Source element defines a source for a media element
+ * Alias for the source tag. The Source element defines a source for a media element
  * such as Audio, video, or Picture.
  *
  * @module Source

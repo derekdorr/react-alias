@@ -1,5 +1,5 @@
 /**
- * Alias for the <button> tag.  The Button should be used when performing a user
+ * Alias for the button tag.  The Button should be used when performing a user
  * action such as a form submission or popping a dialog.
  *
  * @module Button

@@ -1,5 +1,5 @@
 /**
- * Alias for the <form> tag. The Form element should be used to define a form
+ * Alias for the form tag. The Form element should be used to define a form
  * for user input.
  *
  * @module Form

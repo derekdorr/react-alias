@@ -1,5 +1,5 @@
 /**
- * Alias for the <section> tag. The Section element defines standalone sections within
+ * Alias for the section tag. The Section element defines standalone sections within
  * a document. Do not use this for generic structure.
  *
  * @module Section

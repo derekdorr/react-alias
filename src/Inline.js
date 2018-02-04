@@ -1,5 +1,5 @@
 /**
- * Alias for the <span> tag. An inline element can be used to define non-semantic
+ * Alias for the span tag. An inline element can be used to define non-semantic
  * inline structure in a document.
  *
  * @module Inline

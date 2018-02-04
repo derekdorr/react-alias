@@ -1,5 +1,5 @@
 /**
- * Alias for the <main> tag. The Main element provides a semantic container for
+ * Alias for the main tag. The Main element provides a semantic container for
  * the main content within a document. For backwards compatability for IE11 and previous,
  * a role="main" should also be added.
  *

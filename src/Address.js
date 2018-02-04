@@ -1,5 +1,5 @@
 /**
- * Alias for the <address> tag.  The Address tag defines the contact information
+ * Alias for the address tag.  The Address tag defines the contact information
  * for the owner of a document or article.  If contained within <body> it will
  * denote the contact information for the document. If contained within <article>
  * it will denote the contact information for that article.

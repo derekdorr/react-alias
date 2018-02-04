@@ -1,5 +1,5 @@
 /**
- * Alias for the <noscript> tag. The NoScript tag defines content which displays
+ * Alias for the noscript tag. The NoScript tag defines content which displays
  * in a browser if scripting is not enabled.
  *
  * @module NoScript

@@ -1,5 +1,5 @@
 /**
- * Alias for the <fieldset> tag. The FieldSet is used to group related elements within
+ * Alias for the fieldset tag. The FieldSet is used to group related elements within
  * a form.
  *
  * @module FieldSet

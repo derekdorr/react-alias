@@ -1,5 +1,5 @@
 /**
- * Alias for the <input type="tel"> tag.  Should be used when adding a telephone field
+ * Alias for the input type="tel" tag.  Should be used when adding a telephone field
  * to a form.
  *
  * @module TelephoneInput

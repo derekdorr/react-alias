@@ -1,5 +1,5 @@
 /**
- * Alias for the <input type="file"> tag.  Should be used when adding a file field
+ * Alias for the input type="file" tag.  Should be used when adding a file field
  * to a form.
  *
  * @module FileInput

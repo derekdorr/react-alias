@@ -1,5 +1,5 @@
 /**
- * Alias for the <nav> tag. The Navigation element defines a set of links for
+ * Alias for the nav tag. The Navigation element defines a set of links for
  * user naviation.
  *
  * @module Navigation

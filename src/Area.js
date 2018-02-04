@@ -1,5 +1,5 @@
 /**
- * Alias for the <area> tag.  The Area tag defines a clickable area within
+ * Alias for the area tag.  The Area tag defines a clickable area within
  * an image map.  Parent should be the Map component.
  *
  * @module Area

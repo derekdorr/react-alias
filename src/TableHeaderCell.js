@@ -1,5 +1,5 @@
 /**
- * Alias for the <th> tag.  The TableHeaderCell element defines a table header cell.
+ * Alias for the th tag.  The TableHeaderCell element defines a table header cell.
  *
  * @module TableHeaderCell
  * @func
