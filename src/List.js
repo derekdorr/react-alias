@@ -10,6 +10,6 @@
 
 import alias from './alias';
 
-const List = alias('li', 'List');
+const List = alias('ul', 'List');
 
 export default List;

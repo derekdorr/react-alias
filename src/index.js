@@ -41,6 +41,7 @@ import HorizontalRule from './HorizontalRule';
 import Html from './Html';
 import IFrame from './IFrame';
 import Image from './Image';
+import ImageInput from './ImageInput';
 import Inline from './Inline';
 import Input from './Input';
 import Label from './Label';
@@ -138,6 +139,7 @@ export {
     Html,
     IFrame,
     Image,
+    ImageInput,
     Inline,
     Input,
     Label,
