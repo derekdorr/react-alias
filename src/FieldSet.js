@@ -1,13 +1,13 @@
 /**
  * Alias for the <fieldset> tag. The FieldSet is used to group related elements within
  * a form.
- * 
+ *
  * @module FieldSet
  * @func
  * @since 1.0.0
  * @param {Object} props
  */
- 
+
 import _toLowerCase from './_internal/_toLowerCase';
 import alias from './alias';
 

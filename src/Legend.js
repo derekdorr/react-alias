@@ -1,6 +1,6 @@
 /**
  * Alias for the <legend> tag. A Legend element provides a caption for a FieldSet.
- * 
+ *
  * @module Legend
  * @func
  * @since 1.0.0

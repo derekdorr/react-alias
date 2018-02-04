@@ -1,7 +1,7 @@
 /**
  * Alias for the <figcaption> tag. The FigureCaption element defines a caption for
  * a Figure element.
- * 
+ *
  * @module FigureCaption
  * @func
  * @since 1.0.0

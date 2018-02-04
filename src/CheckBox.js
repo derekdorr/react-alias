@@ -1,7 +1,7 @@
 /**
  * Alias for the <input type="checkbox"> tag.  Should be used when adding a checkbox
  * to a form.
- * 
+ *
  * @module CheckBox
  * @func
  * @since 1.0.0

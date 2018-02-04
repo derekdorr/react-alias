@@ -1,7 +1,7 @@
 /**
  * Alias for the <input type="radio"> tag.  Should be used when adding a radio field
  * to a form.
- * 
+ *
  * @module RadioInput
  * @func
  * @since 1.0.0

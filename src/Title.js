@@ -1,7 +1,7 @@
 /**
  * Alias for the <title> tag. The Title element defines a document title and should
- * be contained within Head. 
- * 
+ * be contained within Head.
+ *
  * @module Title
  * @func
  * @since 1.0.0

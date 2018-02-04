@@ -1,7 +1,7 @@
 /**
  * The alias function generates a memoized function which renders a React
  * Pure-Functional component.
- * 
+ *
  * @module alias
  * @func
  * @since 1.0.0

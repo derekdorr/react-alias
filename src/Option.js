@@ -1,7 +1,7 @@
 /**
  * Alias for the <option> tag. The Option element defines a user-selectable value
  * for a Select.
- * 
+ *
  * @module Option
  * @func
  * @since 1.0.0

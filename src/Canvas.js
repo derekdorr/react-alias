@@ -1,7 +1,7 @@
 /**
  * Alias for the <canvas> tag.  The Canvas tag is used to draw objects through
  * scripting.
- * 
+ *
  * @module Canvas
  * @func
  * @since 1.0.0

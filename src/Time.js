@@ -1,7 +1,7 @@
 /**
- * Alias for the <time> tag. The Time element defines human-readable time-related 
+ * Alias for the <time> tag. The Time element defines human-readable time-related
  * information within the context of its parent.
- * 
+ *
  * @module Time
  * @func
  * @since 1.0.0

@@ -1,7 +1,7 @@
 /**
  * Alias for the <input type="range"> tag.  Should be used when adding a range field
  * to a form.
- * 
+ *
  * @module RadioInput
  * @func
  * @since 1.0.0

@@ -2,7 +2,7 @@
  * Alias for the <aside> tag.  The Aside tag defines content which is an aside
  * from the content it is placed within.  The Aside tag should be relevant to
  * the surrounding content.
- * 
+ *
  * @module Aside
  * @func
  * @since 1.0.0

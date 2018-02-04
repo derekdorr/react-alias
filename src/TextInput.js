@@ -1,7 +1,7 @@
 /**
  * Alias for the <input type="text"> tag. Should be used when adding a text field
  * to a form.
- * 
+ *
  * @module TextInput
  * @func
  * @since 1.0.0

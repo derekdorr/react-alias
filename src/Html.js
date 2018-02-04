@@ -1,6 +1,6 @@
 /**
  * Alias for the <html> tag. The Html element is a wrapper for an HTML document.
- * 
+ *
  * @module Html
  * @func
  * @since 1.0.0

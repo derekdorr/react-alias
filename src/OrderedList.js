@@ -1,7 +1,7 @@
 /**
  * Alias for the <ol> tag. The OrderedList element provides a container for an
  * ordered list.
- * 
+ *
  * @module OrderedList
  * @func
  * @since 1.0.0

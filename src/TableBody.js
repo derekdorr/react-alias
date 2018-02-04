@@ -1,6 +1,6 @@
 /**
  * Alias for the <tbody> tag. The TableBody element defines the body of a Table.
- * 
+ *
  * @module TableBody
  * @func
  * @since 1.0.0
