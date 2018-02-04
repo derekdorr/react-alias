@@ -1,7 +1,7 @@
 /**
  * Alias for the <input> tag. The Input element can be used to define a generic
  * field within a form for user input.
- * 
+ *
  * @module Input
  * @func
  * @since 1.0.0

@@ -1,7 +1,7 @@
 /**
  * Alias for the <datalist> tag.  The DataList can contain a number of pre-defined
  * values for an Input element.
- * 
+ *
  * @module DataList
  * @func
  * @since 1.0.0

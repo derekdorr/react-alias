@@ -1,7 +1,7 @@
 /**
  * Alias for the <li> tag. The ListItem element denotes a child of an ordered or
  * unordered list.
- * 
+ *
  * @module ListItem
  * @func
  * @since 1.0.0

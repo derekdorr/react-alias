@@ -1,7 +1,7 @@
 /**
  * Alias for the <input type="search"> tag.  Should be used when adding a search field
  * to a form.
- * 
+ *
  * @module SearchInput
  * @func
  * @since 1.0.0

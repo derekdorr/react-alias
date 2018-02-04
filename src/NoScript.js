@@ -1,7 +1,7 @@
 /**
  * Alias for the <noscript> tag. The NoScript tag defines content which displays
  * in a browser if scripting is not enabled.
- * 
+ *
  * @module NoScript
  * @func
  * @since 1.0.0

@@ -1,6 +1,6 @@
 /**
  * Alias for the <audio> tag.  The Audio tag defines playable audio content.
- * 
+ *
  * @module Audio
  * @func
  * @since 1.0.0

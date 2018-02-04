@@ -1,7 +1,7 @@
 /**
  * Alias for the <input type="month"> tag.  Should be used when adding a month field
  * to a form.
- * 
+ *
  * @module MonthInput
  * @func
  * @since 1.0.0

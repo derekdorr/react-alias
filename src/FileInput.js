@@ -1,7 +1,7 @@
 /**
  * Alias for the <input type="file"> tag.  Should be used when adding a file field
  * to a form.
- * 
+ *
  * @module FileInput
  * @func
  * @since 1.0.0

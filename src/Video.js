@@ -1,6 +1,6 @@
 /**
  * Alias for the <video> tag. The Video element defines embedded video content.
- * 
+ *
  * @module Video
  * @func
  * @since 1.0.0

@@ -1,7 +1,7 @@
 /**
  * Alias for the <details> tag.  The Details tag provides additional details about
  * a context that a user can show or hide on demand.
- * 
+ *
  * @module DescriptionDefinition
  * @func
  * @since 1.0.0

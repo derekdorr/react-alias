@@ -1,7 +1,7 @@
 /**
  * Alias for the <article> tag.  The Article tag is used to define independent
  * content which could be distributed separate from the parent document.
- * 
+ *
  * @module Article
  * @func
  * @since 1.0.0

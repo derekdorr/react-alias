@@ -1,7 +1,7 @@
 /**
  * Alias for the <input type="time"> tag.  Should be used when adding a time field
  * to a form.
- * 
+ *
  * @module TimeInput
  * @func
  * @since 1.0.0

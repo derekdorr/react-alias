@@ -1,6 +1,6 @@
 /**
- * Alias for the <select> tag. The Select element defines a dropdown input for a form. 
- * 
+ * Alias for the <select> tag. The Select element defines a dropdown input for a form.
+ *
  * @module Select
  * @func
  * @since 1.0.0

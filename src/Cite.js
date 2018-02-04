@@ -1,6 +1,6 @@
 /**
  * Alias for the <cite> tag.  The Cite tag defines the title of a work.
- * 
+ *
  * @module Cite
  * @func
  * @since 1.0.0

@@ -1,7 +1,7 @@
 /**
  * Alias for the <picture> tag. The Picture element allows for additionally flexibility
  * in defining image resources above the Image element.
- * 
+ *
  * @module Picture
  * @func
  * @since 1.0.0

@@ -1,6 +1,6 @@
 /**
- * Alias for the <tr> tag. The TableRow element defines a row of a Table. 
- * 
+ * Alias for the <tr> tag. The TableRow element defines a row of a Table.
+ *
  * @module TableRow
  * @func
  * @since 1.0.0
