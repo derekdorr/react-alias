@@ -9,13 +9,11 @@
  */
 
 import { compose } from 'skald';
-import STR_DISPLAY_NAME from './_constants/STR_DISPLAY_NAME';
+import _addDisplayName from './_internal/_addDisplayName';
 import _mergeType from './_internal/_mergeType';
 import Input from './Input';
 
 const mergeProps = _mergeType('hidden');
-
 const HiddenInput = compose(Input, mergeProps);
-HiddenInput[STR_DISPLAY_NAME] = 'HiddenInput';
 
-export default HiddenInput;
+export default _addDisplayName(HiddenInput, 'HiddenInput');

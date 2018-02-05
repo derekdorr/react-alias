@@ -8,7 +8,8 @@
  */
 
 import alias from './alias';
+import STR_TABLE_FOOTER from './_constants/STR_TABLE_FOOTER';
 
-const TableFooter = alias('tfoot', 'TableFooter');
+const TableFooter = alias('tfoot', STR_TABLE_FOOTER);
 
 export default TableFooter;

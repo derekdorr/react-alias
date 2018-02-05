@@ -9,13 +9,11 @@
  */
 
 import { compose } from 'skald';
-import STR_DISPLAY_NAME from './_constants/STR_DISPLAY_NAME';
+import _addDisplayName from './_internal/_addDisplayName';
 import _mergeType from './_internal/_mergeType';
 import Input from './Input';
 
 const mergeProps = _mergeType('range');
-
 const RangeInput = compose(Input, mergeProps);
-RangeInput[STR_DISPLAY_NAME] = 'RangeInput';
 
-export default RangeInput;
+export default _addDisplayName(RangeInput, 'RangeInput');

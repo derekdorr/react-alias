@@ -12,12 +12,11 @@
 
 import React from 'react';
 import { memoize } from 'skald';
-import STR_DISPLAY_NAME from './_constants/STR_DISPLAY_NAME';
+import _addDisplayName from './_internal/_addDisplayName';
 
 const internal = (Tag, name) => {
     const aliased = props => (<Tag {...props} />);
-    aliased[STR_DISPLAY_NAME] = name;
-    return aliased;
+    return _addDisplayName(aliased, name);
 };
 
 const alias = memoize(internal);
