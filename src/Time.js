@@ -8,13 +8,10 @@
  * @param {Object} props
  */
 
-
-import _toLowerCase from './_internal/_toLowerCase';
 import alias from './alias';
+import STR_TIME from './_constants/STR_TIME';
+import STR_TIME_LC from './_constants/STR_TIME_LC';
 
-const STR_NAME = 'Time';
-const STR_TAG = _toLowerCase(STR_NAME);
-
-const Time = alias(STR_TAG, STR_NAME);
+const Time = alias(STR_TIME_LC, STR_TIME);
 
 export default Time;

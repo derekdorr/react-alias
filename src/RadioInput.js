@@ -9,13 +9,11 @@
  */
 
 import { compose } from 'skald';
-import STR_DISPLAY_NAME from './_constants/STR_DISPLAY_NAME';
+import _addDisplayName from './_internal/_addDisplayName';
 import _mergeType from './_internal/_mergeType';
 import Input from './Input';
 
 const mergeProps = _mergeType('radio');
-
 const RadioInput = compose(Input, mergeProps);
-RadioInput[STR_DISPLAY_NAME] = 'RadioInput';
 
-export default RadioInput;
+export default _addDisplayName(RadioInput, 'RadioInput');

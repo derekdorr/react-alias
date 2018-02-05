@@ -9,13 +9,11 @@
  */
 
 import { compose } from 'skald';
-import STR_DISPLAY_NAME from './_constants/STR_DISPLAY_NAME';
+import _addDisplayName from './_internal/_addDisplayName';
 import _mergeType from './_internal/_mergeType';
 import Input from './Input';
 
 const mergeProps = _mergeType('tel');
-
 const TelephoneInput = compose(Input, mergeProps);
-TelephoneInput[STR_DISPLAY_NAME] = 'TelephoneInput';
 
-export default TelephoneInput;
+export default _addDisplayName(TelephoneInput, 'TelephoneInput');

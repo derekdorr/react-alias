@@ -9,13 +9,13 @@
  */
 
 import { compose } from 'skald';
-import STR_DISPLAY_NAME from './_constants/STR_DISPLAY_NAME';
+import STR_TEXT_LC from './_constants/STR_TEXT_LC';
+import STR_TEXT_INPUT from './_constants/STR_TEXT_INPUT';
+import _addDisplayName from './_internal/_addDisplayName';
 import _mergeType from './_internal/_mergeType';
 import Input from './Input';
 
-const mergeProps = _mergeType('text');
-
+const mergeProps = _mergeType(STR_TEXT_LC);
 const TextInput = compose(Input, mergeProps);
-TextInput[STR_DISPLAY_NAME] = 'TextInput';
 
-export default TextInput;
+export default _addDisplayName(TextInput, STR_TEXT_INPUT);

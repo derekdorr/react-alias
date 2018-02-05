@@ -7,13 +7,10 @@
  * @param {Object} props
  */
 
-
-import _toLowerCase from './_internal/_toLowerCase';
 import alias from './alias';
+import STR_TABLE from './_constants/STR_TABLE';
+import STR_TABLE_LC from './_constants/STR_TABLE_LC';
 
-const STR_NAME = 'Table';
-const STR_TAG = _toLowerCase(STR_NAME);
-
-const Table = alias(STR_TAG, STR_NAME);
+const Table = alias(STR_TABLE_LC, STR_TABLE);
 
 export default Table;

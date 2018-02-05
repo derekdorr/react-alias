@@ -9,7 +9,8 @@
 
 
 import alias from './alias';
+import STR_TABLE_HEAD from './_constants/STR_TABLE_HEAD';
 
-const TableHead = alias('thead', 'TableHead');
+const TableHead = alias('thead', STR_TABLE_HEAD);
 
 export default TableHead;

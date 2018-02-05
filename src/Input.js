@@ -8,12 +8,10 @@
  * @param {Object} props
  */
 
-import _toLowerCase from './_internal/_toLowerCase';
 import alias from './alias';
+import STR_INPUT from './_constants/STR_INPUT';
+import STR_INPUT_LC from './_constants/STR_INPUT_LC';
 
-const STR_NAME = 'Input';
-const STR_TAG = _toLowerCase(STR_NAME);
-
-const Input = alias(STR_TAG, STR_NAME);
+const Input = alias(STR_INPUT_LC, STR_INPUT);
 
 export default Input;

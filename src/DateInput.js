@@ -9,13 +9,11 @@
  */
 
 import { compose } from 'skald';
-import STR_DISPLAY_NAME from './_constants/STR_DISPLAY_NAME';
+import _addDisplayName from './_internal/_addDisplayName';
 import _mergeType from './_internal/_mergeType';
 import Input from './Input';
 
 const mergeProps = _mergeType('date');
-
 const DateInput = compose(Input, mergeProps);
-DateInput[STR_DISPLAY_NAME] = 'DateInput';
 
-export default DateInput;
+export default _addDisplayName(DateInput, 'DateInput');

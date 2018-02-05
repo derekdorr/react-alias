@@ -9,13 +9,11 @@
  */
 
 import { compose } from 'skald';
-import STR_DISPLAY_NAME from './_constants/STR_DISPLAY_NAME';
+import _addDisplayName from './_internal/_addDisplayName';
 import _mergeType from './_internal/_mergeType';
 import Input from './Input';
 
 const mergeProps = _mergeType('color');
-
 const ColorInput = compose(Input, mergeProps);
-ColorInput[STR_DISPLAY_NAME] = 'ColorInput';
 
-export default ColorInput;
+export default _addDisplayName(ColorInput, 'ColorInput');

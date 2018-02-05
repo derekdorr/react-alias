@@ -9,7 +9,8 @@
 
 
 import alias from './alias';
+import STR_TABLE_CELL from './_constants/STR_TABLE_CELL';
 
-const TableCell = alias('td', 'TableCell');
+const TableCell = alias('td', STR_TABLE_CELL);
 
 export default TableCell;

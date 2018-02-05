@@ -8,12 +8,10 @@
  * @param {Object} props
  */
 
-import _toLowerCase from './_internal/_toLowerCase';
 import alias from './alias';
+import STR_HEADER from './_constants/STR_HEADER';
+import STR_HEADER_LC from './_constants/STR_HEADER_LC';
 
-const STR_NAME = 'Header';
-const STR_TAG = _toLowerCase(STR_NAME);
-
-const Header = alias(STR_TAG, STR_NAME);
+const Header = alias(STR_HEADER_LC, STR_HEADER);
 
 export default Header;
