@@ -54,7 +54,7 @@
     "eslint-config-airbnb": "^16.1.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-jsx-a11y": "^6.2.2",
     "eslint-plugin-react": "^7.5.1",
     "glob": "^7.1.2",
     "gulp": "^3.9.1",
