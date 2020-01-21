@@ -62,7 +62,7 @@
     "gulp-jsdoc-to-markdown": "^1.2.2",
     "gulp-rename": "^1.2.2",
     "gulp-util": "^3.0.8",
-    "husky": "^0.14.3",
+    "husky": "^4.1.0",
     "nyc": "^11.3.0",
     "react-addons-test-utils": "^15.6.2",
     "react-dom": "^16.2.0",
